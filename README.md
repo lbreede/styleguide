@@ -3,3 +3,5 @@
 This project holds the following style guides:
 
 *   [VEX Style Guide][vex]
+
+[vex]: https://
